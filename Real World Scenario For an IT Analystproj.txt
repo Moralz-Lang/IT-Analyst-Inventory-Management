@@ -1,58 +1,47 @@
-Real World Scenario For an IT Analyst: (JAN - DEC 2024)
+IT Expense Analysis Summary (Jan – Dec 2024)
+============================================
 
-Python Script to analyze, read, and report on the expense data used in excel to manage costs of the department.
+Project Description:
+--------------------
+This Python script and Excel-based system analyzes IT department spending for 2024,
+showing which months and categories exceeded budget, and where improvements can be made.
 
-Brainstorming solutions to improve budgeting and spending.
+Key Features:
+-------------
+- Analyzes monthly expenses from Excel
+- Detects which months exceeded the $20,000/month budget
+- Calculates total cost per category
+- Identifies the 5 most expensive purchases
+- Generates bar and pie charts as PNG files
 
-Lastly, give boss a clear and actionable insight on what's going on and recommendations to help.
+Boss's Key Questions (and Answers):
+-----------------------------------
+1. Which months went over budget?
+   - Jan, May, Jun, and July exceeded the $20,000 monthly budget.
 
--------------------------------------------------------------------------------------
+2. Which categories are the most expensive?
+   - Top categories: Hardware, Software, Cloud Services, Support Services, Accessories.
+   - Most expensive overall: Support Services.
 
+3. Are there recurring costs we can reduce?
+   - Depends on the company’s priorities. Recommend leadership identify lowest-priority areas.
 
-Questions My Boss Has asked me :
+4. Can purchases be consolidated?
+   - Hardware and Accessories could potentially be merged into one procurement strategy.
 
-Which Months went over budget?
-According to a monthly spending chart i made "Jan, May, Jun, and July" are over the budget of $20,000 per month.
+Department Goals:
+-----------------
+- Stay under $20,000/month budget
+- Prepare ahead for costly months (e.g. hardware upgrades)
+- Consider bulk/annual billing for cost savings
+- Keep Excel inventory updated for tagging purchases by category
 
-Which categories are the most expensive?
- The top 5 categories are Hardware, software, cloud services, support services, and software. The most expensive category is "Support Services".
+Charts Generated:
+-----------------
+- monthly_spending.png
+- category_spending.png
+- top_expensive_items.png
 
-Are the recurring costs we can negotiate to improve saving ?
-It all depends on what is of upmost importance to you and your company. "Can you tell me what is of the least importance ?" I can't answer that question because you haven't told me what you believe to be of least importance to cut recurring cost.
-
-
-Which vendors or purchase could be consolidated?
-In my opinion Hardware and accessories can 
-be consolidated into one because they are of the same distinctions. "What o you think?"
-Boss : Responds with answer....
-
-
-
-
-GOALS WANTED BY MY BOSS IS :
-
-Keep spending under $20k/Month
-
-We can keep spending under that amount by ...... {What do you think we could cut and what do we use least in our company?}
-
-Plan for high spending months in advance for newer hardware
-
-..........
-
-How to suggest bulk buying or annual billing costs:
-
-..........
-
-He also wants to tag and track all purchases by category to build dashboards
-
-We can tag all purchases by making sure every spreadsheet is up to date with inventory management.
-
-Where is my money going into mostly ?
-
-Most of the money is going to support services. " Customer and support services are of the most important to the company as it will ensure they will come back if everything they wanted was met."
-
-
-
-
-
-
+Final Recommendation:
+---------------------
+Use this system monthly to track spending, flag budget risks, and support purchasing decisions with clear data.
