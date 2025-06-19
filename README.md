@@ -75,7 +75,7 @@ This system gives your IT department:
 
 ---
 
-## 💡 Want to Extend This?
+## 💡 My Reccomendations Extend This Project For My Boss ?
 
 - Export reports to PDF with embedded charts
 - Build an interactive dashboard with Plotly or Dash
